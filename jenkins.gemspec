@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.summary     = %q{Painless Continuous Integration with Jenkins Server}
   s.description = %q{A suite of utilities for bringing continous integration to your projects (not the other way around) with jenkins CI}
 
-  s.rubyforge_project = "jenkins"
+  s.rubyforge_project = "akqa-jenkins"
 
   s.files         = `git ls-files`.split("\n")
 
